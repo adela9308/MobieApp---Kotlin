@@ -5,17 +5,17 @@ adăugarea de noi rețete. Scopul aplicației este de a îngloba cât mai multe 
 culinare, care oferă indicații pas cu pas pentru gătirea acestora, prezintă lista de ingrediente, 
 menționând și numărul de calorii, alături de timpul de preparare.
 
-## Funcționalități
-- Prezintă toate operațiile CRUD, fiecare dintre acestea fiind exemplificate într-un ecran separat. 
-- Rețele afișate sunt preluate de pe un server, iar la realizarea oricărei operații, modificările 
-vor fi prezente și pe server.
-- Există implementare și pentru salvarea datelor într-o baza de date locală (pe lângă server + salvarea în memorie).
-
 ## Tehnologii
 
 - Limbaj de programare: Kotlin 
 - Bază de date: PostgreSQL
 - Server: Django
+
+## Funcționalități
+- Prezintă toate operațiile CRUD, fiecare dintre acestea fiind exemplificate într-un ecran separat. 
+- Rețele afișate sunt preluate de pe un server, iar la realizarea oricărei operații, modificările 
+vor fi prezente și pe server.
+- Există implementare și pentru salvarea datelor într-o baza de date locală (pe lângă server + salvarea în memorie).
 
 ## Rulare
 - _Partea de server:_
